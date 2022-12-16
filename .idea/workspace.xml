@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa046da2-23c9-4adf-bf12-01a60857ac94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP2406_CH01_prac.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DebugExercise/FixDebugOne1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DebugExercise/FixDebugOne2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DebugExercise/FixDebugOne3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DebugExercise/FixDebugOne4.java" afterDir="false" />
+    <list default="true" id="aa046da2-23c9-4adf-bf12-01a60857ac94" name="Changes" comment="final debug push">
+      <change afterPath="$PROJECT_DIR$/CodeInFigures/ErrorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +17,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Lum CP2406 Practical Samples.zip/A01 Farrell8 Prac Solutions/Chapter 01/StudentFiles/CodeInFigures/ErrorTest.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Lum CP2406 Practical Samples.zip/A01 Farrell8 Prac Solutions/Chapter 01/StudentFiles/DebuggingExercises/DebugOne2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp2_Lum CP2406 Practical Samples.zip/A01 Farrell8 Prac Solutions/Chapter 01/StudentFiles/CodeInFigures/ErrorTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -69,11 +63,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671168236038</updated>
-      <workItem from="1671168237202" duration="1400000" />
+      <workItem from="1671168237202" duration="2547000" />
     </task>
+    <task id="LOCAL-00001" summary="final debug push">
+      <created>1671169920690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671169920690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final debug push" />
+    <option name="LAST_COMMIT_MESSAGE" value="final debug push" />
   </component>
 </project>
